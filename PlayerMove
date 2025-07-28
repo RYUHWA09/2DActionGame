@@ -129,3 +129,4 @@ public class PlayerMove : MonoBehaviour
         }
     }
 }
+// 대쉬 후 방향키 게속 누르고 있으면 가속이 계속 이어짐 그리고 이동 느낌 낼려고 수치 딸깍하다보면 대쉬말곤 이동이 안되는 버그가 있음
